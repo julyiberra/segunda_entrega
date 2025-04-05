@@ -1,0 +1,2 @@
+#Lista de paquetes y sus versiones
+notebook==7.3.3
